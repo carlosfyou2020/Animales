@@ -9,7 +9,7 @@ public class ProbarAnimales {
 
         miAnimal.setNombre("Pepe");
         miPajaro.setNombre("Piolín");
-        miPez.setNombre("Nemo");
+        miPez.setNombre("Dory");
 
         System.out.println("Mi animal se llama " + miAnimal.getNombre());
         System.out.println("Mi pájaro se llama " + miPajaro.getNombre());
